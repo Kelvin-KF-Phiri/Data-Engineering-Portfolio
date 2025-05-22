@@ -1,4 +1,4 @@
-# IMDb Scraper
+# TMDb Scraper
 
 This project is a web scraping tool designed to extract movie data from tMDb's top movies chart. It fetches the titles, release years, and ratings of the top movies and stores the data in a CSV file.
 
