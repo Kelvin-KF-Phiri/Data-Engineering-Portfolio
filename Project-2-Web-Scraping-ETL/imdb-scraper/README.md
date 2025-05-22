@@ -1,11 +1,11 @@
 # IMDb Scraper
 
-This project is a web scraping tool designed to extract movie data from IMDb's top movies chart. It fetches the titles, release years, and ratings of the top movies and stores the data in a CSV file.
+This project is a web scraping tool designed to extract movie data from tMDb's top movies chart. It fetches the titles, release years, and ratings of the top movies and stores the data in a CSV file.
 
 ## Project Structure
 
 ```
-imdb-scraper
+tmdb-scraper
 ├── src
 │   ├── scrape_imdb.py  # Main scraping logic
 │   └── utils.py        # Utility functions (currently empty)
@@ -40,9 +40,9 @@ To run the scraper, execute the following command in your terminal:
 python src/scrape_imdb.py
 ```
 
-This will scrape the top movies from IMDb and save the data to a CSV file named `imdb_top_movies.csv`.
+This will scrape the top movies from IMDb and save the data to a CSV file named `tmdb_top_movies.csv`.
 
 ## Notes
 
-- Ensure that scraping is allowed by checking the `robots.txt` file on IMDb.
+- Ensure that scraping is allowed by checking the `robots.txt` file on TMDb.
 - The `utils.py` file is currently empty but can be used for any additional utility functions needed for data processing or cleaning in the future.
