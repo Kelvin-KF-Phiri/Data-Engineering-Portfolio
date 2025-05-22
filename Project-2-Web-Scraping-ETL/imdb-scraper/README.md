@@ -7,7 +7,7 @@ This project is a web scraping tool designed to extract movie data from tMDb's t
 To run the scraper, execute the following command in your terminal:
 
 ```
-python src/scrape_imdb.py
+python src/scrape_tmdb.py
 ```
 
 This scraped the top movies from IMDb and save the data to a CSV file named `tmdb_top_movies.csv`.
