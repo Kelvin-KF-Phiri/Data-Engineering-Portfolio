@@ -19,7 +19,7 @@ This folder contains csv file that can be opened from the following:
 
 
 *REQUIREMENTS*
-MS Excel
-VS Code
-Python  - (Pandas, Jupyter, beatifulsoup,)
-PowerBI
+1.MS Excel
+2.VS Code
+3.Python  - (Pandas, Jupyter, beatifulsoup,)
+4.PowerBI
