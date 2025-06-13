@@ -17,7 +17,7 @@ F --> G [Interactive Visualizations]
 3. Python
 4. PowerBI file (Interactive Data Visualization)
 
- ## *REQUIREMENTS*
+## *REQUIREMENTS*
 1. MS Excel
 2. VS Code
 3. Python  - (Pandas, Jupyter, beatifulsoup,)
