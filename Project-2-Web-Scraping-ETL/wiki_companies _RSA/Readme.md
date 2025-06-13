@@ -18,11 +18,9 @@ This folder contains csv file that can be opened with the following:
 4. PowerBI file (Interactive Data Visualization)
 
 *REQUIREMENTS*
-1. MS Excel
+1.MS Excel
 2. VS Code
-3. Python  - (Pandas, Jupyter, beatifulsoup,)
-4. PowerBI
-
-
+3.Python  - (Pandas, Jupyter, beatifulsoup,)
+4.PowerBI
 
 ------------------------------
