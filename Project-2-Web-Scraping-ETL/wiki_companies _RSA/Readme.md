@@ -3,14 +3,14 @@
 ## 📊 Project Overview
 This Power BI visualization analyzes the top companies in South Africa based on publicly available data from Wikipedia's ["List of largest companies in South Africa"](https://en.wikipedia.org/wiki/List_of_largest_companies_in_South_Africa). The dataset was obtained through web scraping and transformed into interactive business intelligence dashboards.
 
-## 🔍 Data Pipeline
+### 🔍 Data Pipeline
 
 **A** --> [**Wikipedia Page**] --> **B**{**Python Scraping**}
-B --> C [****Raw HTML Table****]
-C --> D [_**Data Cleaning**_]
-D --> E [_**CSV Dataset**_]
-E --> F [**_Power BI**_]
-F --> G [_**Interactive Visualizations**_]
+**B** --> C [****Raw HTML Table****]
+**C** --> D [_**Data Cleaning**_]
+**D** --> E [_**CSV Dataset**_]
+**E** --> F [**_Power BI**_]
+**F** --> **G** [_**Interactive Visualizations**_]
 
 ## This folder contains csv file that can be opened with the following:
 
