@@ -1,0 +1,1 @@
+-- This folder contains files that went through an ETL Process and cleaned and tranformed into cvs files to be used in excel, python, and data visualisation --
