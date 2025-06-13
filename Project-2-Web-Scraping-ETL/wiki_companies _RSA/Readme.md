@@ -5,7 +5,7 @@ This Power BI visualization analyzes the top companies in South Africa based on 
 
 ### 🔍 Data Pipeline
 
-**A** --> [**Wikipedia Page**] --> **B**{**Python Scraping**}  
+**A** --> [**Wikipedia Page**] --> **B** {**Python Scraping**}  
 **B** --> C [****Raw HTML Table****]  
 **C** --> D [_**Data Cleaning**_]  
 **D** --> E [_**CSV Dataset**_]  
@@ -19,7 +19,7 @@ This Power BI visualization analyzes the top companies in South Africa based on 
 3. Python
 4. PowerBI file (Interactive Data Visualization)
 
-## REQUIREMENTS
+#### REQUIREMENTS
 1. MS Excel
 2. VS Code
 3. Python  - (Pandas, Jupyter, beatifulsoup,)
